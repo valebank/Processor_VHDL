@@ -1,0 +1,12 @@
+#-----------------------------------------------------------
+# Vivado v2020.2 (64-bit)
+# SW Build 3064766 on Wed Nov 18 09:12:45 MST 2020
+# IP Build 3064653 on Wed Nov 18 14:17:31 MST 2020
+# Start of session at: Fri Nov 17 19:23:32 2023
+# Process ID: 15720
+# Current directory: C:/UTN/3er/TD1/TP/TP_Final_Bank_Valeria/TP_Final_Bank_Valeria.runs/impl_1
+# Command line: vivado.exe -log microIO.vdi -applog -product Vivado -messageDb vivado.pb -mode batch -source microIO.tcl -notrace
+# Log file: C:/UTN/3er/TD1/TP/TP_Final_Bank_Valeria/TP_Final_Bank_Valeria.runs/impl_1/microIO.vdi
+# Journal file: C:/UTN/3er/TD1/TP/TP_Final_Bank_Valeria/TP_Final_Bank_Valeria.runs/impl_1\vivado.jou
+#-----------------------------------------------------------
+source microIO.tcl -notrace

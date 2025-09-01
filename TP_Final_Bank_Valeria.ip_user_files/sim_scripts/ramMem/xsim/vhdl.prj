@@ -1,0 +1,4 @@
+vhdl xil_defaultlib  \
+"../../../../TP_Final_Bank_Valeria.gen/sources_1/ip/ramMem/ramMem_sim_netlist.vhdl" \
+
+nosort

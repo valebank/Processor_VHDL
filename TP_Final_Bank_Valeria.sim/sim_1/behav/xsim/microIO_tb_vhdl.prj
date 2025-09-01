@@ -1,0 +1,18 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TP_Final_Bank_Valeria.gen/sources_1/ip/ramMem/ramMem_sim_netlist.vhdl" \
+"../../../../TP_Final_Bank_Valeria.gen/sources_1/ip/blk_mem_gen_0/blk_mem_gen_0_sim_netlist.vhdl" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/alu.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/imports/capitulo17/microIO.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/myCntBiDir.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/pc.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/portlO.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/imports/TD1/rotador.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/uart.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/uartRx.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/uartTx.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sources_1/new/uc.vhd" \
+"../../../../TP_Final_Bank_Valeria.srcs/sim_1/imports/capitulo17/microIO_tb.vhd" \
+
+# Do not sort compile order
+nosort

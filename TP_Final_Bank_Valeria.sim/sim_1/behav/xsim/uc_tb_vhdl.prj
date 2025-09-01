@@ -1,0 +1,6 @@
+# compile vhdl design source files
+vhdl xil_defaultlib  \
+"../../../../TP_Final_Bank_Valeria.srcs/sim_1/new/uc_tb.vhd" \
+
+# Do not sort compile order
+nosort
